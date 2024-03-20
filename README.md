@@ -3,6 +3,7 @@ In this report, I will talk about the dataset of 77 cereals, and will predict th
 
 Model Analysis:
 1. Random Forest:
+
 •	Mean Squared Error (MSE): 37.00
 
 •	Root Mean Squared Error (RMSE): 6.08
@@ -13,6 +14,7 @@ Model Analysis:
 
  
 2. Support Vector Machine (SVM):
+   
 •	Mean Squared Error (MSE): 191.51
 
 •	Root Mean Squared Error (RMSE): 13.84
@@ -23,6 +25,7 @@ Model Analysis:
 
  
 3. Gradient Boosting:
+   
 •	Mean Squared Error (MSE): 25.50
 
 •	Root Mean Squared Error (RMSE): 5.05
