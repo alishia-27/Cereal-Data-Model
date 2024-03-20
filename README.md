@@ -1,4 +1,4 @@
-# CerealDataModel
+# Comparing different models on Cereal Data
 In this report, I will talk about the dataset of 77 cereals, and will predict their ratings based on their nutritional attributes. I looked at three different regression models: Random Forest, SVM (Support Vector Machine), and Gradient Boosting. 
 
 Model Analysis:
